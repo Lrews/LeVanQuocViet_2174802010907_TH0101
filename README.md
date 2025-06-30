@@ -1,20 +1,18 @@
 # LeVanQuocViet_2174802010907_TH0101
 
 
-Biến Đổi Cường Độ Ảnh Grayscale & Phân Tích Bit-Plane
+*Sinh viên thực hiện: Lê Văn Quốc Việt - 2174802010907
+*Môn học: Nhập môn Xử lý ảnh số
+*Giảng viên: Nguyễn Thái Anh
 
-Sinh viên thực hiện: Lê Văn Quốc Việt - 2174802010907
-Môn học: Nhập môn Xử lý ảnh số
-Giảng viên: Nguyễn Thái Anh
+##Nhập Môn Xử Lý Ảnh Số - Lab 2
+##Giới thiệu
+##Bài lab này nhằm mục đích thực hiện các phép biến đổi cường độ trên ảnh xám – là những thao tác cơ bản, nền tảng trong lĩnh vực xử lý ảnh số. Các biến đổi này giúp:
 
-Nhập Môn Xử Lý Ảnh Số - Lab 2
-Giới thiệu
-Bài lab này nhằm mục đích thực hiện các phép biến đổi cường độ trên ảnh xám – là những thao tác cơ bản, nền tảng trong lĩnh vực xử lý ảnh số. Các biến đổi này giúp:
-
-Tăng cường độ tương phản
-Làm nổi bật các chi tiết khó quan sát
-Trích xuất đặc trưng ảnh
-Công nghệ sử dụng
+##Tăng cường độ tương phản
+##Làm nổi bật các chi tiết khó quan sát
+##Trích xuất đặc trưng ảnh
+##Công nghệ sử dụng
 
 Python: Ngôn ngữ chính
 Pillow (PIL): Đọc, chuyển đổi, và lưu ảnh
